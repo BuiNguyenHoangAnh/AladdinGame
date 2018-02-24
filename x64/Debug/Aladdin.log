@@ -1,0 +1,135 @@
+﻿  TmxUtil.cpp
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\tmxparser\tmxutil.cpp(37): fatal error C1083: Cannot open include file: 'zlib.h': No such file or directory
+  TmxTileset.cpp
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\tmxparser\tmxpropertyset.h(68): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\tmxparser\tmxtile.h(73): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\tmxparser\tmxtile.h(121): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\tmxparser\tmxmap.h(177): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\tmxparser\tmxmap.h(186): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\tmxparser\tmxmap.h(195): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\tmxparser\tmxmap.h(204): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\tmxparser\tmxmap.h(219): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  TmxTileOffset.cpp
+  TmxTileLayer.cpp
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\tmxparser\tmxtilelayer.cpp(31): fatal error C1083: Cannot open include file: 'zlib.h': No such file or directory
+  TmxTile.cpp
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\tmxparser\tmxpropertyset.h(68): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\tmxparser\tmxtile.h(73): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\tmxparser\tmxtile.h(121): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  TmxTerrainArray.cpp
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\tmxparser\tmxpropertyset.h(68): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  TmxTerrain.cpp
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\tmxparser\tmxpropertyset.h(68): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  TmxPropertySet.cpp
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\tmxparser\tmxpropertyset.h(68): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  TmxProperty.cpp
+  TmxPolyline.cpp
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\tmxparser\tmxpolyline.h(55): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\tmxparser\tmxpolyline.cpp(44): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(439): note: see declaration of 'strtok'
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\tmxparser\tmxpolyline.cpp(48): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(2261): note: see declaration of 'sscanf'
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\tmxparser\tmxpolyline.cpp(52): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(439): note: see declaration of 'strtok'
+  TmxPolygon.cpp
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\tmxparser\tmxpolygon.h(55): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\tmxparser\tmxpolygon.cpp(44): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(439): note: see declaration of 'strtok'
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\tmxparser\tmxpolygon.cpp(48): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(2261): note: see declaration of 'sscanf'
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\tmxparser\tmxpolygon.cpp(52): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(439): note: see declaration of 'strtok'
+  TmxObjectGroup.cpp
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\tmxparser\tmxpropertyset.h(68): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\tmxparser\tmxobjectgroup.h(61): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  TmxObject.cpp
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\tmxparser\tmxpropertyset.h(68): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\tmxparser\tmxpolygon.h(55): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\tmxparser\tmxpolyline.h(55): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  TmxMap.cpp
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\tmxparser\tmxpropertyset.h(68): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\tmxparser\tmxmap.h(177): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\tmxparser\tmxmap.h(186): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\tmxparser\tmxmap.h(195): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\tmxparser\tmxmap.h(204): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\tmxparser\tmxmap.h(219): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\tmxparser\tmxobjectgroup.h(61): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\tmxparser\tmxmap.cpp(126): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\tmxparser\tmxmap.cpp(179): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\tmxparser\tmxmap.cpp(193): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  TmxLayer.cpp
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\tmxparser\tmxlayer.cpp(31): fatal error C1083: Cannot open include file: 'zlib.h': No such file or directory
+  TmxImageLayer.cpp
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\tmxparser\tmxpropertyset.h(68): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  TmxImage.cpp
+  TmxEllipse.cpp
+  TmxColor.cpp
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\tmxparser\tmxcolor.cpp(92): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+  tinyxml2.cpp
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\tmxparser\tinyxml2\tinyxml2.cpp(2146): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\tmxparser\tinyxml2\tinyxml2.cpp(2146): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+  Generating Code...
+  Compiling...
+  base64.cpp
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\tmxparser\base64\base64.cpp(86): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\tmxparser\base64\base64.cpp(97): warning C4267: '=': conversion from 'size_t' to 'unsigned char', possible loss of data
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\tmxparser\base64\base64.cpp(114): warning C4267: '=': conversion from 'size_t' to 'unsigned char', possible loss of data
+  MainScene.cpp
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\gameobjects\camera.h(4): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  Main.cpp
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\gamecomponents\input.h(8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\gamecomponents\graphics.h(4): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  PlayerThrowState.cpp
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\gamecomponents\sprite.h(4): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  PlayerStopState.cpp
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\gamecomponents\sprite.h(4): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  PlayerState.cpp
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\gamecomponents\sprite.h(4): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  PlayerSpringState.cpp
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\gamecomponents\sprite.h(4): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  PlayerRunState.cpp
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\gamecomponents\sprite.h(4): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  PlayerRunJumpState.cpp
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\gamecomponents\sprite.h(4): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  PlayerRunFallState.cpp
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\gamecomponents\sprite.h(4): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  PlayerJumpThrowState.cpp
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\gamecomponents\sprite.h(4): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  PlayerJumpState.cpp
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\gamecomponents\sprite.h(4): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  PlayerJumpAttackState.cpp
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\gamecomponents\sprite.h(4): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  PlayerIdleState.cpp
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\gamecomponents\sprite.h(4): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  PlayerFallState.cpp
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\gamecomponents\sprite.h(4): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  PlayerCrouchIdleState.cpp
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\gamecomponents\sprite.h(4): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  PlayerCrouchAttackState.cpp
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\gamecomponents\sprite.h(4): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  PlayerClimbVerticalState.cpp
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\gamecomponents\sprite.h(4): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  PlayerClimbVerticalJumpState.cpp
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\gamecomponents\sprite.h(4): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  PlayerClimbVerticalFallState.cpp
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\gamecomponents\sprite.h(4): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  Generating Code...
+  Compiling...
+  PlayerClimbAttackState.cpp
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\gamecomponents\sprite.h(4): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  PlayerClimbHorizontalMoveState.cpp
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\gamecomponents\sprite.h(4): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  PlayerClimbHorizontalIdleState.cpp
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\gamecomponents\sprite.h(4): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  PlayerAttackState.cpp
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\gamecomponents\sprite.h(4): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  Player.cpp
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\gameobjects\camera.h(4): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  Springboard.cpp
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\gameobjects\gameobject.h(4): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  FloatGround.cpp
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\gameobjects\gameobject.h(4): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  AppleWeapon.cpp
+c:\users\hoanganh\desktop\aladdin_directx-master\aladdin\gameobjects\gameobject.h(4): fatal error C1083: Cannot open include file: 'd3dx9.h': No such file or directory
+  Apple.cpp
